@@ -1,7 +1,4 @@
 ###########################################################################################################
-##	RandTree version 0.2.5
-##	Lyndon Coghill - 2013
-##	lcoghill@uno.edu
 ##	This script is released under GPL version 3. Use it however you want, but its at your own risk.
 ###########################################################################################################
 
