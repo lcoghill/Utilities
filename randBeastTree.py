@@ -23,15 +23,6 @@ import re
 import random
 os.system('cls')
 os.system('clear')
-print ("		\n")
-print ("		RandTree v0.2.5, 2013")
-print ("			by")
-print ("		 Lyndon M. Coghill")
-print ("			 &")
-print ("		Trent Santonastaso")
-print ("		\n")
-print ("	     lcoghill@fieldmuseum.org")
-print ("\n\n\n\n")
 file_name = input('.TREES File Name: ')# assigns the variable <file_name> to whatever the user enters - this is facilitated by the function <input> and prompted by the text in parentheses
 print ("Checking file compatibility. If the tree file is large, this may take a little time...")
 print ("\n")
